@@ -77,7 +77,7 @@ export default function Categorias() {
   ];
 
   return (
-    <section className="bg-white">
+    <section className="bg-gray-50">
       <div className="max-w-6xl mx-auto px-4 py-24">
 
         {/* Título */}
